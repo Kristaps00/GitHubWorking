@@ -1,6 +1,6 @@
 ﻿namespace GitHubWorking
 {
-    partial class Form1
+    partial class MyApp
     {
         /// <summary>
         /// Required designer variable.
